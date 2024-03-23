@@ -1,0 +1,79 @@
+.buttonDefaultArrowRight {
+    padding: 15px 25px;
+    max-width: 250px;
+    color: var(--color-primary);
+    margin: 0 auto;
+    background-color: transparent;
+    border: 1px solid #01355626;
+    border-radius: 60px;
+    cursor: pointer;
+    text-decoration: none;
+    display: inline-flex;
+    align-items: center;
+    gap: 25px;
+    transition: all 0.25s ease-in-out;
+    font-family: Lexend;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 17.5px;
+    text-align: center;
+    box-shadow: 0 0 0px 0px rgba(1, 53, 86, 0.05) inset;
+}
+
+.buttonDefaultArrowRight:hover {
+    background-color: rgba(1, 53, 86, 0.05);
+    box-shadow: 0 2px 3px 0px rgba(1, 53, 86, 0.15) inset;
+}
+
+.buttonDefaultArrowRight:active {
+    background-color: rgba(1, 53, 86, 0.15);
+}
+
+.buttonDefaultArrowRight svg path {
+    transition: all 0.5s ease-in-out;
+}
+
+.buttonDefaultArrowRight:hover svg path {
+    /* fill: #fff; */
+}
+
+/* Button Secondary */
+.buttonSecondaryArrowRight {
+    padding: 15px 25px;
+    max-width: 250px;
+
+    color: #fff;
+    margin: 0 auto;
+    background-color: var(--color-primary);
+    border: 1px solid #01355626;
+    border-radius: 60px;
+    cursor: pointer;
+    text-decoration: none;
+    display: inline-flex;
+    align-items: center;
+    gap: 25px;
+    transition: all 0.5s ease-in-out;
+    font-family: Lexend;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 17.5px;
+    text-align: center;
+}
+
+.buttonSecondaryArrowRight svg path {
+    fill: #fff;
+}
+
+.buttonSecondaryArrowRight:hover {
+    color: var(--color-primary);
+    background-color: #fff;
+
+}
+
+.buttonSecondaryArrowRight svg path {
+    transition: all 0.5s ease-in-out;
+}
+
+.buttonSecondaryArrowRight:hover svg path {
+    fill: var(--color-primary);
+}

@@ -1,0 +1,114 @@
+{
+  "header.contact.btn": "Entre em contato",
+
+  "hero.heading": "Nosso objetivo é impulsionar o sucesso do seu negócio 🚀",
+  "hero.button": "Embarque conosco",
+  "hero.carousel.text1": "Desempenho",
+  "hero.carousel.text2": "Performance",
+  "hero.carousel.text3": "Agilidade",
+  "hero.carousel.text4": "Segurança",
+  "hero.carousel.text5": "Expertise",
+  "hero.carousel.text6": "Destaque",
+
+  "navigation.text1": "Início",
+  "navigation.text2": "Áreas",
+  "navigation.text3": "Sobre nós",
+  "navigation.text4": "Contato",
+
+  "section-basic-fields.heading": "Nossas Áreas de Atuação",
+  "section-basic-fields.subheading": "Explore um pouco sobre nossas especialidades.",
+  "section-basic-fields.seeMoreBtn": "Ver Todas",
+
+  "basic-card-1-title": "Desenvolvimento Web",
+  "basic-card-1-shortDescription": "Crie sua presença online com nossas soluções de desenvolvimento web.",
+  "basic-card-1-description": "Descubra o potencial ilimitado da sua presença online com as nossas soluções especializadas em desenvolvimento web. Criamos experiências digitais que não apenas cativam, mas também impulsionam o crescimento do seu negócio. Desde sites elegantes e responsivos até plataformas robustas e interativas, estamos aqui para transformar suas ideias em realidade digital. Nossa abordagem personalizada e orientada para resultados garante que cada projeto seja adaptado às suas necessidades exclusivas, garantindo assim uma presença online que se destaca em um mundo digital em constante evolução. Confiável, inovador e focado no sucesso do cliente - estamos prontos para ser seu parceiro no caminho para o sucesso online.",
+
+  "basic-card-2-title": "Desenvolvimento de Aplicativos",
+  "basic-card-2-shortDescription": "Transforme suas ideias em aplicativos móveis funcionais e envolventes.",
+  "basic-card-2-description": "Desbloqueie o potencial do seu negócio com nossos serviços de desenvolvimento de aplicativos. Transforme suas ideias em realidade digital e leve sua marca diretamente para as mãos dos seus clientes. Nossa equipe especializada está pronta para colaborar com você desde o conceito inicial até o lançamento e além, garantindo que seu aplicativo móvel seja não apenas funcional, mas também envolvente e intuitivo. Com uma abordagem centrada no usuário e atenção meticulosa aos detalhes, criamos experiências que não apenas impressionam, mas também geram resultados tangíveis. Seja para iOS, Android ou ambas as plataformas, estamos aqui para oferecer soluções sob medida que impulsionam o crescimento do seu negócio e o conectam de forma significativa com seu público-alvo. Transforme suas ideias em realidade digital e destaque-se em um mercado cada vez mais competitivo com nossos serviços de desenvolvimento de aplicativos.",
+
+  "basic-card-3-title": "Cybersegurança",
+  "basic-card-3-shortDescription": "Mantenha sua empresa segura com nossas soluções abrangentes de cibersegurança.",
+  "basic-card-3-description": "Proteger sua empresa contra ameaças cibernéticas é fundamental nos dias de hoje. Com nossas soluções abrangentes de cibersegurança, você pode ter tranquilidade sabendo que sua empresa está protegida contra as mais recentes ameaças digitais. Desde a proteção de dados confidenciais até a defesa contra ataques de malware e phishing, nossa equipe especializada está aqui para fornecer as medidas de segurança necessárias para manter sua empresa segura. Com uma abordagem proativa e tecnologia de ponta, ajudamos a identificar e mitigar os riscos de segurança, garantindo assim a integridade dos seus sistemas e a continuidade dos seus negócios. Não deixe sua empresa vulnerável a ataques cibernéticos. Conte conosco para fornecer as soluções de cibersegurança de que você precisa para proteger seus ativos mais importantes.",
+
+  "basic-card-4-title": "Otimização de Conversão (CRO)",
+  "basic-card-4-shortDescription": "Aumente suas taxas de conversão e maximize o retorno do seu investimento digital.",
+  "basic-card-4-description": "Maximize o retorno do seu investimento digital com nossos serviços especializados em Otimização de Conversão (CRO). Aumente suas taxas de conversão e leve seus resultados para o próximo nível. Nossa abordagem meticulosa e orientada para dados permite identificar oportunidades de melhoria em cada etapa do funil de conversão, desde a aquisição de tráfego até a conclusão da compra. Utilizando testes A/B, análise de dados e melhores práticas da indústria, otimizamos continuamente sua experiência online para garantir que cada visita ao seu site se converta em uma ação valiosa. Seja aumentando as vendas, leads ou engajamento, estamos comprometidos em fornecer resultados mensuráveis que impulsionam o crescimento do seu negócio. Não deixe o potencial de conversão do seu site subutilizado. Confie em nós para impulsionar suas taxas de conversão e alcançar novos patamares de sucesso digital.",
+
+  "basic-card-5-title": "Performance Digital",
+  "basic-card-5-shortDescription": "Melhore o desempenho e a eficiência da sua presença online com nossas estratégias digitais.",
+  "basic-card-5-description": "Aprimore o desempenho e a eficiência da sua presença online com nossas estratégias digitais personalizadas. Nossa equipe especializada está pronta para impulsionar seus resultados digitais por meio de análises detalhadas, otimização contínua e implementação de melhores práticas da indústria. Desde a otimização do seu site para velocidade e usabilidade até a maximização do retorno sobre o investimento em campanhas de marketing digital, estamos aqui para garantir que sua presença online atinja seu máximo potencial. Com uma abordagem centrada nos objetivos e uma mentalidade orientada para resultados, ajudamos sua empresa a se destacar em um cenário digital competitivo e em constante evolução. Não deixe o desempenho digital da sua empresa estagnar. Conte conosco para impulsionar sua performance online e alcançar novos patamares de sucesso digital.",
+
+  "basic-card-6-title": "Design de Experiência do Usuário (UX/UI)",
+  "basic-card-6-shortDescription": "Crie experiências digitais memoráveis e intuitivas para seus usuários.",
+  "basic-card-6-description": "Desenvolva experiências digitais memoráveis e intuitivas para seus usuários com nossos serviços especializados em Design de Experiência do Usuário (UX/UI). Desde a criação de interfaces elegantes e funcionais até a otimização da jornada do usuário, nossa equipe experiente está pronta para transformar suas ideias em experiências digitais de classe mundial. Utilizando as mais recentes técnicas de design centrado no usuário e testes de usabilidade, garantimos que cada interação com seu produto ou serviço seja agradável, intuitiva e eficaz. Seja para websites, aplicativos móveis ou outras plataformas digitais, estamos comprometidos em criar designs que não apenas impressionam visualmente, mas também geram resultados tangíveis para o seu negócio. Não comprometa a experiência do usuário. Confie em nós para criar soluções de design que cativam, envolvem e encantam seus usuários em cada ponto de contato digital.",
+
+  "section-detailed-fields.heading": "Nossos Serviços Personalizados",
+  "section-detailed-fields.subheading": "Explore detalhes sobre nossos serviços especializados.",
+  "section-detailed-fields.knowMore": "Saiba Mais",
+
+  "detailed-card-1-title": "Desenvolvimento Web Personalizado",
+  "detailed-card-1-shortDescription": "Desenvolvimento web adaptado às suas necessidades exclusivas e objetivos comerciais.",
+  "detailed-card-1-description": "Desenvolveremos seus Websites e projetaremos para atender às suas necessidades específicas e impulsionar seus objetivos comerciais. Com uma abordagem centrada no cliente e anos de experiência no setor, nossa equipe se dedica a criar soluções web sob medida que não apenas impressionam visualmente, mas também oferecem desempenho excepcional. Desde a concepção até a implementação, cada aspecto do seu site é cuidadosamente planejado e executado para garantir uma experiência digital excepcional para seus usuários. Priorizamos a usabilidade, acessibilidade e velocidade, garantindo que seu site não apenas atraia visitantes, mas também os mantenha engajados. Utilizando as mais recentes tecnologias e melhores práticas da indústria, entregamos websites que não são apenas bonitos, mas também funcionais e eficientes. Seja para uma pequena empresa, uma startup em crescimento ou uma empresa estabelecida, estamos comprometidos em fornecer soluções de desenvolvimento web que impulsionam o sucesso do seu negócio.",
+  "detailed-card-1-hashtags": "#desenvolvimento, #website, #performance",
+
+  "detailed-card-2-title": "Desenvolvimento Mobile Personalizado",
+  "detailed-card-2-shortDescription": "Soluções móveis personalizadas para atender às demandas específicas do seu negócio.",
+  "detailed-card-2-description": "Com uma abordagem centrada e anos de experiência nos capacitaram a criar soluções móveis sob medida que não apenas atendem às suas necessidades exclusivas, mas também impulsionam o sucesso do seu negócio. Desde o conceito até a entrega, nossa equipe dedicada trabalha para garantir que seu aplicativo móvel ofereça uma experiência excepcional aos usuários. Priorizamos a usabilidade, o desempenho e a segurança, garantindo que seu aplicativo não apenas impressione, mas também funcione de forma eficaz em uma variedade de dispositivos e ambientes. Utilizamos as mais recentes tecnologias e práticas de desenvolvimento móvel para fornecer soluções que se destacam em um mercado competitivo. Seja para iOS, Android ou ambas as plataformas, estamos comprometidos em fornecer soluções de desenvolvimento móvel que elevam a experiência do usuário e impulsionam o sucesso do seu negócio.",
+  "detailed-card-2-hashtags": "#desenvolvimento, #mobile, #performance",
+
+  "detailed-card-3-title": "Análise Avançada de Desempenho",
+  "detailed-card-3-shortDescription": "Análise detalhada e aprofundada do desempenho digital da sua empresa.",
+  "detailed-card-3-description": "Nossa análise avançada de desempenho é projetada para fornecer insights valiosos sobre o desempenho digital da sua empresa. Com uma abordagem detalhada e aprofundada, nossa equipe especializada examina todos os aspectos da sua presença online para identificar oportunidades de melhoria e áreas de otimização. Desde a análise do tráfego do site até a avaliação da experiência do usuário, fornecemos informações abrangentes que ajudam a informar suas estratégias digitais futuras. Utilizando ferramentas e metodologias avançadas, garantimos que cada aspecto do seu desempenho digital seja examinado com precisão e rigor. Com nossas análises detalhadas, você pode tomar decisões mais informadas e estratégicas para impulsionar o crescimento do seu negócio online. Não deixe o desempenho digital da sua empresa ao acaso. Confie em nós para fornecer insights valiosos que impulsionam o sucesso do seu negócio online.",
+  "detailed-card-3-hashtags": "#desempenho #detalhes",
+
+  "detailed-card-4-title": "Análise de Segurança de Alta Performance",
+  "detailed-card-4-shortDescription": "Avaliação minuciosa e eficiente da segurança digital da sua organização.",
+  "detailed-card-4-description": "Analisaremos a segurança de seu app ou site com alta performance oferecendo uma avaliação minuciosa e eficiente da segurança digital da sua organização. Com uma abordagem especializada e focada na excelência, nossa equipe experiente examina cada aspecto da sua infraestrutura digital para identificar vulnerabilidades e fortalecer suas defesas cibernéticas. Desde testes de penetração até análises de vulnerabilidade, realizamos uma análise abrangente para garantir que sua organização esteja protegida contra as mais recentes ameaças cibernéticas. Utilizando ferramentas avançadas e técnicas de ponta, garantimos que cada aspecto da sua segurança digital seja examinado com precisão e rigor. Com nossas análises detalhadas e recomendações acionáveis, você pode tomar medidas proativas para proteger seus ativos digitais e manter sua organização segura contra ameaças cibernéticas. Não comprometa a segurança da sua organização. Confie em nós para fornecer uma análise de segurança de alta performance que fortalece suas defesas cibernéticas.",
+  "detailed-card-4-hashtags": "#segurança #perfomance #cybersegurança",
+
+  "detailed-card-5-title": "Consultoria em Design de Experiência do Usuário (UX)",
+  "detailed-card-5-shortDescription": "Assessoria especializada para aprimorar a experiência do usuário em suas plataformas digitais.",
+  "detailed-card-5-description": "Ofereceremos uma assessoria especializada para aprimorar a experiência do usuário em suas plataformas digitais. Com uma equipe experiente e focada em resultados, trabalhamos lado a lado com você para entender as necessidades do seu público-alvo e criar soluções de design que cativam e engajam. Desde a análise da interface do usuário até o fluxo de navegação, oferecemos insights valiosos e recomendações acionáveis para melhorar cada aspecto da experiência do usuário. Nossa abordagem centrada no usuário garante que suas plataformas digitais não apenas atendam, mas também superem as expectativas dos usuários. Seja para websites, aplicativos móveis ou outras plataformas digitais, estamos comprometidos em fornecer consultoria em design de UX que impulsione o sucesso do seu negócio. Confie em nós para fornecer orientação especializada que aprimora a experiência do usuário e impulsiona o crescimento do seu negócio digital.",
+  "detailed-card-5-hashtags": "#consultoria #ui&ux #design #web #mobile",
+
+  "detailed-card-6-title": "Design de Interface de Usuário (UI)",
+  "detailed-card-6-shortDescription": "Desenvolvimento de interfaces intuitivas e visualmente atraentes para seus aplicativos e websites.",
+  "detailed-card-6-description": "Somos especialistas em Design de Interface de Usuário (UI) concentra-se no desenvolvimento de interfaces intuitivas e visualmente atraentes para seus aplicativos e websites. Combinando criatividade e funcionalidade, nossa equipe se dedica a criar designs que não apenas impressionam visualmente, mas também melhoram a experiência do usuário. Desde a concepção até a implementação, cada aspecto do design é cuidadosamente planejado para garantir a máxima usabilidade e atratividade. Utilizando as últimas tendências de design e melhores práticas da indústria, criamos interfaces que facilitam a interação e proporcionam uma experiência envolvente para os usuários. Seja para um aplicativo móvel ou um site, nossa abordagem centrada no usuário garante que suas interfaces não apenas atendam às expectativas, mas também as superem. Confie em nós para fornecer soluções de design de UI que elevam a qualidade e a usabilidade de suas plataformas digitais.",
+  "detailed-card-6-hashtags": "#ui #design",
+
+  "lets-talk-section.title": "Cultivando Crescimento e Inovação",
+  "lets-talk-section.description": "Desbloqueie todo o potencial do seu negócio, avance com tecnologia de ponta e garanta segurança em cada passo. Junte-se a nós!",
+  "lets-talk-section.button": "Vamos Conversar",
+
+  "confidence-section.section-top": "Anos de Confiança",
+  "confidence-section.card1": "Entrega<br/>Veloz",
+  "confidence-section.card2": "Análises<br/>Precisas",
+  "confidence-section.card3": "Designs<br/>Impressionantes",
+
+  "aboutus-section.title": "Quem Somos",
+  "aboutus-section.subTitle": "Conheça mais sobre nossa equipe e visão.",
+
+  "aboutus-section.option-1.select": "Nosso Time",
+  "aboutus-section.option-1.content": "<h1>Conheça Nossa Equipe</h1><br /><span>Somos um time de desenvolvedores apaixonados pelo que fazemos, unidos pelo objetivo comum de criar experiências digitais excepcionais. Com anos de experiência e especialização em desenvolvimento mobile, web e design de interfaces, estamos comprometidos em oferecer soluções inovadoras e personalizadas para atender às necessidades de nossos clientes. Nossa equipe é formada por profissionais altamente qualificados e criativos, que estão sempre buscando novas maneiras de superar desafios e alcançar excelência em cada projeto. Trabalhamos em estreita colaboração com nossos clientes, ouvindo suas necessidades e transformando suas visões em realidade. Seja qual for o seu projeto, estamos aqui para ajudar a torná-lo um sucesso.</span>",
+
+  "aboutus-section.option-2.select": "Nossa Visão",
+  "aboutus-section.option-2.content": "<h1>Nossa Visão</h1><br /><span>Nossa visão é ser líderes na criação de soluções digitais inovadoras que impulsionam o sucesso e o crescimento sustentável de nossos clientes. Estamos comprometidos em oferecer serviços de alta qualidade, focados na excelência e na satisfação do cliente. Queremos ser reconhecidos como uma referência no mercado por nossa criatividade, expertise técnica e compromisso com a inovação contínua. Buscamos constantemente novas oportunidades e desafios, sempre mantendo nossa integridade e ética profissional. Acreditamos que através de nossa paixão pelo trabalho e nosso comprometimento com a excelência, podemos ajudar nossos clientes a alcançar seus objetivos e criar um impacto positivo no mundo digital.</span>",
+
+  "aboutus-section.option-3.select": "Nosso Propósito",
+  "aboutus-section.option-3.content": "<h1>Nosso Propósito</h1><br /><span>Capacitar empresas e indivíduos a alcançarem seu máximo potencial no mundo digital. Acreditamos que a tecnologia tem o poder de transformar vidas e negócios, e estamos comprometidos em fornecer soluções inovadoras que impulsionem o crescimento e a sustentabilidade. Queremos ser parceiros de confiança de nossos clientes, ajudando-os a navegar pelas complexidades do ambiente digital e a aproveitar ao máximo as oportunidades disponíveis. Nosso propósito vai além do sucesso comercial; buscamos criar um impacto positivo na comunidade e no mundo, promovendo a inclusão digital e a acessibilidade para todos. Estamos comprometidos em agir de forma responsável e ética, contribuindo para um futuro melhor para todos.</span>",
+
+  "contact-section.title": "Entre em Contato",
+  "contact-section.subTitle": "Fale conosco! Envie uma mensagem, por email ou telefone",
+  "contact-section.phone": "exatas@email.com.br <br /> (38) 9 9912-3456",
+
+  "contact-section.form-title": "Vamos Conversar",
+  "contact-section.form-subTitle": "Entre em contato conosco a qualquer momento",
+
+  "contact-section.form-input.fullname": "Nome Completo",
+  "contact-section.form-input.email": "Seu Email",
+  "contact-section.form-input.phone": "Seu Telefone",
+  "contact-section.form-input.message": "Deixe sua mensagem",
+  "contact-section.form.btn-submit": "Enviar",
+  "contact-section.form.success": "<h1>Enviado!</h1> <br /> em breve entraremos em contato com você!"
+}

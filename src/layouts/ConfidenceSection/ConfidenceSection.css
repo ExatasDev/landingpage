@@ -1,0 +1,98 @@
+.confidence-section{
+    width: 100%;
+    padding: 200px;
+    background-image: url('../../../public/images/background-confidence-section.png');
+    background-size: cover;
+    background-attachment: fixed;
+    display: grid;
+    justify-content: center;
+    background-position-x: center;
+    background-size: 60%;
+    background-repeat: no-repeat;
+    background-position-y: bottom;
+    background-color: #F7FCFF;
+}
+@media screen and (max-width: 768px) {
+    
+    .confidence-section{
+        padding: 50px;
+    }
+}
+
+.confidence-section__top{
+    text-align: center;
+    display: grid;
+    justify-content: center;
+    align-content: center;
+}
+
+.confidence-section__top .years{
+    font-family: Lexend;
+    font-size: 96px;
+    font-weight: 300;
+    line-height: 120px;
+    
+}
+.confidence-section__top .subText{
+    font-family: Lexend;
+    font-size: 32px;
+    font-weight: 200;
+    line-height: 40px;
+    text-align: center;
+
+}
+
+.confidence-section__cards{
+    display: grid;
+    background: #fff;
+    padding: 70px 40px;
+    border-radius: 50px;
+    max-width: 880px;
+    margin: 0 auto;
+    margin-top: 50px;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr;
+    border: 1px solid #01355626;
+    box-shadow: var(--shadow-1);
+}
+
+@media screen and (max-width: 768px) {
+    .confidence-section__cards{
+        grid-template-columns: 1fr;
+        grid-template-rows: 1fr 1fr 1fr;
+    }
+}
+
+.confidence-section__item{
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    padding: 0 20px;
+}
+.confidence-section__item .text{
+    font-family: Lexend;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 30px;
+    text-align: center;
+    margin-top: 25px;
+}
+.confidence-section__item svg{
+    margin: 0 auto;
+}
+
+.confidence-section__item:nth-child(2){
+    border-left: 1px solid #01355626;
+    border-right: 1px solid #01355626;
+}
+
+@media screen and (max-width: 768px) {
+    .confidence-section__item{
+        padding: 20px 0;
+    }
+    .confidence-section__item:nth-child(2){
+        border: 0;
+        border-top: 1px solid #01355626;
+        border-bottom: 1px solid #01355626;
+    }
+}

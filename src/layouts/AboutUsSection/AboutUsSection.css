@@ -1,0 +1,161 @@
+.aboutus-section{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    background: #FFFFFF;
+
+}
+
+.aboutus-section__container{
+    max-width: 1440px;
+    width: 100%;
+    padding: 40px 20px;
+}
+@media screen and (max-width: 768px) {
+    .aboutus-section__container{
+        padding: 40px 10px;
+    }
+}
+.aboutus-section__title{
+    text-align: center;
+}
+.aboutus-section__title h1{
+    font-family: Lexend;
+    font-size: 32px;
+    font-weight: 400;
+    line-height: 40px;
+    text-align: center;
+
+}
+.aboutus-section__title span{
+    font-family: Lexend;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 30px;
+    text-align: center;
+    color: #013556B2;
+
+}
+
+.aboutus-section__dropdown{
+    display: inline-flex;
+    margin-top: 80px;
+}
+
+@media screen and (max-width: 768px) {
+    .aboutus-section__dropdown{
+        display: grid;
+    }
+}
+
+.aboutus-section__selectoptions{
+    padding-right: 80px;
+    min-width: 264px;
+    max-width: 264px;
+}
+@media screen and (max-width: 768px) {
+    .aboutus-section__selectoptions{
+        display: inline-flex;
+        justify-content: space-between;
+        width: 100%;
+        max-width: 100%;
+        padding: 0;
+    }
+}
+.aboutus-section__selectoptions .option{
+    display: inline-flex;
+    align-content: center;
+    align-items: center;
+    max-width: 230px;
+    width: 100%;
+    justify-content: space-between;
+
+    padding: 36px 0;
+    border-bottom: 1px solid #01355626;
+
+    font-family: Lexend;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 30px;
+    text-align: left;
+
+    cursor: pointer;
+}
+@media screen and (max-width: 768px) {
+    .aboutus-section__selectoptions .option{
+        display: grid;
+        justify-content: center;
+        
+        margin: 0;
+        padding: 0;
+        border: 0;
+        
+        font-size: 14px;
+        line-height: 20px;
+        text-align: center;
+        padding: 10px 0;
+        
+    }
+    .aboutus-section__selectoptions .option.active{
+        background: #f4f4f4;
+        box-shadow: var(--shadow-1);
+    }
+    .aboutus-section__selectoptions .option:nth-child(2){
+        border-left:  1px solid #01355626;
+        border-right:  1px solid #01355626;
+        
+    }
+    .aboutus-section__selectoptions .option-icon{
+        opacity: 0 !important;
+        transform: rotate(90deg);
+        margin: 10px auto;
+    }
+    .aboutus-section__selectoptions .option.active .option-icon{
+        opacity: 1 !important;
+
+    }
+}
+
+.aboutus-section__selectoptions .option:last-child{
+    border: none;
+}
+
+.aboutus-section__selectoptions .option:hover .option-icon{
+    background-color: #f9f9f9;
+    box-shadow: var(--shadow-1);
+}
+
+.aboutus-section__selectoptions .option.active .option-icon{
+    background-color: var(--color-primary);
+}
+.aboutus-section__selectoptions .option.active .option-icon svg path{
+    fill: #fff;
+}
+
+
+.aboutus-section__selectoptions .option-icon{
+    min-width: 50px;
+    min-height: 50px;
+    max-width: 50px;
+    max-height: 50px;
+    display: grid;
+    align-content: center;
+    justify-content: center;
+    border: 1px solid #01355626;
+    border-radius: 50%;
+}
+.aboutus-section__selectoptions .option:not(.active) .option-icon{
+    opacity: 0.5;
+}
+
+.aboutus-section__content{
+    padding: 20px 80px;
+    border-left:1px solid #01355626;
+}
+
+@media screen and (max-width: 768px) {
+    .aboutus-section__content{
+        padding: 10px;
+        border: 0;
+    }
+}

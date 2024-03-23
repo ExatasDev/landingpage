@@ -1,0 +1,21 @@
+.button-navigation {
+    font-family: Lexend;
+    font-size: 14px;
+    color: var(--color-primary);
+    text-decoration: none;
+    padding: 10px 30px;
+    border-radius: 50px;
+    outline: 1px solid transparent;
+    transition: all 0.25s ease-in-out;
+    box-shadow: 0 0 0px 0px rgba(1, 53, 86, 0.05) inset;
+}
+
+.button-navigation:hover {
+    outline: 1px solid #01355626;
+    box-shadow: 0 2px 3px 0px rgba(1, 53, 86, 0.15) inset;
+}
+
+.button-navigation.active {
+    color: #fff;
+    background-color: var(--color-primary);
+}

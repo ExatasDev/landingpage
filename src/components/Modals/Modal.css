@@ -1,0 +1,185 @@
+.modal-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 10;
+  }
+  
+  .modal {
+    background-color: white;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3);
+
+    min-width: 500px;
+    max-width: 800px;
+    width: 100%;
+    min-height: 500px;
+    border-radius: 35px;
+    
+    position: relative;
+  }
+
+  @media screen and (max-width: 768px) {
+    .modal {
+        min-width: 280px;
+        max-width: 800px;
+        width: calc(100% - 20px);
+    }         
+  }
+
+  .close-btn {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    background: #fff;
+    width: 40px;
+    height: 40px;
+    cursor: pointer;
+
+    border-radius: 50%;
+    border: 1px solid #01355626;
+    box-shadow: var(--shadow-1);
+
+    z-index: 1;
+  }
+  
+/* ------------------------- Detailed */
+  .modal__detailed{
+      
+}
+
+.modal__detailed-image{
+    width: 100%;
+    height: 300px;
+    position: relative;
+
+}
+.modal__detailed .title{
+    display: grid;
+
+    font-family: Lexend;
+    font-size: 32px;
+    font-weight: 400;
+    line-height: 40px;
+    text-align: left;
+    color: #fff;
+    text-shadow: 2px 7px 5px rgba(0,0,0,0.3), 
+    0px -4px 10px rgba(255,255,255,0.3);
+    
+    position: absolute;
+    width: 100%;
+    left: 0;
+    height: 200px;
+    bottom: -21px;
+    
+    background: linear-gradient(180deg, rgba(0, 0, 0, 0) 0%, #2a2a2a 100%);
+    
+    align-items: end;
+    align-content: end;
+    padding: 20px;
+    
+}
+.modal__detailed .hashtags{
+    margin-top: 10px;
+    font-size: 14px;
+    color: #d5d5d5;
+    letter-spacing: 5px;
+
+}
+.modal__detailed .background-image{
+    width: 100%;
+    height: 100%;
+    border-top-left-radius: 35px;
+    border-top-right-radius: 35px;
+    object-fit: cover;
+    
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+.modal__detailed .background-image.default{
+	background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
+	background-size: 400% 400%;
+	animation: gradient 20s ease infinite;
+}
+
+.modal__detailed-content{
+    padding: 20px;
+    min-height: 300px;
+    font-family: Lexend;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 20px;
+
+}
+
+/* ------------------------- BASIC */
+  .modal__basic{
+      display: inline-flex;
+      height: 100%;
+      max-height: 500px;
+}
+
+.modal__basic-image{
+    width: 300px;
+    min-width: 300px;
+    height: 100%;
+    position: relative;
+    display: block;
+
+}
+.modal__basic .background-image{
+    width: 100%;
+    height: 100%;
+    border-top-left-radius: 35px;
+    border-bottom-left-radius: 35px;
+    object-fit: cover;
+    
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+.modal__basic .title{
+    font-family: Lexend;
+    font-size: 32px;
+    font-weight: 400;
+    line-height: 40px;
+    text-align: left;
+    color: #000;
+    text-shadow: 2px 7px 5px rgba(0,0,0,0.3), 
+    0px -4px 10px rgba(255,255,255,0.3);
+    
+}
+.modal__basic .background-image.default{
+	background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
+	background-size: 400% 400%;
+	animation: gradient 20s ease infinite;
+}
+
+.modal__basic-content{
+    padding: 20px;
+    min-height: 300px;
+    font-family: Lexend;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 20px;
+
+}
+
+@keyframes gradient {
+	0% {
+		background-position: 0% 50%;
+	}
+	50% {
+		background-position: 100% 50%;
+	}
+	100% {
+		background-position: 0% 50%;
+	}
+}
+

@@ -1,0 +1,80 @@
+.lets-talk-section{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.lets-talk-section__container{
+    max-width: 1440px;
+    padding: 100px 20px;
+    display: inline-flex;
+}
+
+@media screen and (max-width: 768px) {
+    .lets-talk-section__container{
+        display: grid;
+        text-align: center;
+        justify-content: center;
+    }
+}
+.lets-talk-section__col{
+    width: 50%;
+}
+@media screen and (max-width: 768px) {
+    .lets-talk-section__col{
+        width: 100%;
+    }
+}
+.lets-talk-section__col .title{
+    font-family: Lexend;
+    font-size: 64px;
+    font-weight: 300;
+    line-height: 80px;
+    text-align: left;
+}
+@media screen and (max-width: 768px) {
+    .lets-talk-section__col * {
+        text-align: center !important;
+    }
+    .lets-talk-section__col .title{
+        font-size: 40px;
+        line-height: 40px;
+    }
+}
+
+
+.lets-talk-section__col .description{
+    font-family: Lexend;
+    font-size: 24px;
+    font-weight: 300;
+    line-height: 30px;
+    text-align: right;
+    color:  #013556B2;
+}
+
+.lets-talk-section__col.col-right{
+    display: grid;
+    justify-content: right;
+    text-align: right;
+    align-items: center;
+    align-content: center;
+}
+@media screen and (max-width: 768px) {
+    .lets-talk-section__col.col-right{
+    }
+}
+.lets-talk-section__col.col-right a{
+    justify-self: right;
+    margin: 0;
+    margin-top: 50px;
+    height: 40px;
+    padding: 5px 40px;
+}
+
+@media screen and (max-width: 768px) {
+    .lets-talk-section__col.col-right a{
+        justify-self: center; 
+        margin-top: 20px;
+
+    }
+}

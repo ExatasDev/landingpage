@@ -1,0 +1,11 @@
+.language-selector__container{
+
+}
+.language-selector__select{
+    background: transparent;
+    border: none;
+    font-size: 14px;
+    color: var(--color-secondary);
+    padding: 5px;
+    cursor: pointer;
+}

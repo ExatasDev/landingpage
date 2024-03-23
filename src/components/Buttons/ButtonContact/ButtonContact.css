@@ -1,0 +1,11 @@
+.header-container__contactbtn a{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+
+    font-family: Lexend;
+    font-size: 12px;
+    color: #01355680;
+    text-decoration: none;
+    
+}
