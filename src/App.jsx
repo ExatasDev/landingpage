@@ -26,13 +26,13 @@ export const scroll = new SmoothScroll('a[href*="#"]', {
 
 const App = () => {
   const {locale} = useGlobal()
-  console.log('testhg 1', locale)
   return (
     <IntlProvider locale={locale} messages={messages[locale]} defaultLocale="pt-br">
       <BrowserRouter >
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/exatas" element={<Home />} />
+          <Route path="/landingpage" element={<Home />} />
           {/* <Route path="blogs" element={<Blogs />} />
           <Route path="contact" element={<Contact />} /> */}
           {/* <Route path="*" element={<NoPage />} /> */}

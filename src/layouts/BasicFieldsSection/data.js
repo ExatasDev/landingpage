@@ -6,7 +6,7 @@ export default [
         title: <FormattedMessage id="basic-card-1-title" />,
         shortDescription: <FormattedMessage id="basic-card-1-shortDescription" />,
         description: "basic-card-1-description",
-        image: "/exatas/images/background-cybersecurity.jpg"
+        image: "/landingpage/images/background-cybersecurity.jpg"
     },    
     {
         id: 2,
