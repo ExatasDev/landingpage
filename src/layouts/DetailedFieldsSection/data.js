@@ -6,7 +6,7 @@ export default [
         title: <FormattedMessage id="detailed-card-1-title" />,
         shortDescription: <FormattedMessage id="detailed-card-1-shortDescription" />,
         description: "detailed-card-1-description",
-        imageBackground: '/images/background-finances.jpg',
+        imageBackground: '/exatas/images/background-finances.jpg',
         hashtags: <FormattedMessage id="detailed-card-1-hashtags" />,
     },    
     {
@@ -14,7 +14,7 @@ export default [
         title: <FormattedMessage id="detailed-card-2-title" />,
         shortDescription: <FormattedMessage id="detailed-card-2-shortDescription" />,
         description: "detailed-card-2-description",
-        imageBackground: '/images/background-app.jpg',
+        imageBackground: '/exatas/images/background-app.jpg',
         hashtags: <FormattedMessage id="detailed-card-2-hashtags" />,
     },    
     {
