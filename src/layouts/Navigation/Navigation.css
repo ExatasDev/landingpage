@@ -4,6 +4,12 @@
     width: 100%;
     padding: 10px 20px 10px 10px;
     margin-top: 40px;
+    min-height: 80px
+}
+@media screen and (max-width: 768px) {
+    .navigation{
+        padding: 0;
+    }
 }
 .navigation-floating{
     padding: 10px 20px 10px 10px;
@@ -23,10 +29,27 @@
     width: auto;
     z-index: 9; 
     box-shadow: var(--shadow-2);
-
+    
     transition: box-shadow 300ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
     backdrop-filter: saturate(200%) blur(1.875rem);
 }
+
+@media screen and (max-width: 768px) {
+    .navigation-floating{
+        opacity: 0;
+    }
+    .navigation-floating.sticky{
+        position: fixed;
+        top: 0;
+        width: 100%;
+        border-top-left-radius: 0;
+        border-top-right-radius: 0;
+        opacity: 1;
+        justify-content: center;
+    }
+    
+}
+
 .navigation-item{
     display: flex;
     align-items: center;

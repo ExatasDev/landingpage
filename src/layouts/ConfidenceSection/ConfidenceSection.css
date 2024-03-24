@@ -12,10 +12,13 @@
     background-position-y: bottom;
     background-color: #F7FCFF;
 }
+
+
 @media screen and (max-width: 768px) {
     
     .confidence-section{
         padding: 50px;
+        background-size: cover;
     }
 }
 
@@ -44,7 +47,7 @@
 
 .confidence-section__cards{
     display: grid;
-    background: #fff;
+    background: #ffffff59;
     padding: 70px 40px;
     border-radius: 50px;
     max-width: 880px;
@@ -54,6 +57,7 @@
     grid-template-rows: 1fr;
     border: 1px solid #01355626;
     box-shadow: var(--shadow-1);
+    backdrop-filter: saturate(200%) blur(1.875rem);
 }
 
 @media screen and (max-width: 768px) {

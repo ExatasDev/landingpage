@@ -14,7 +14,7 @@ export default () => {
                 </div>                
                 <div className='lets-talk-section__col col-right'>
                     <div className='description' dangerouslySetInnerHTML={{ __html: intl.formatMessage({ id: 'lets-talk-section.description' }) }} />
-                    <a href='/#contact' className='buttonDefaultArrowRight'>
+                    <a href='#contact' className='buttonDefaultArrowRight'>
                         <FormattedMessage id="lets-talk-section.button" />
                         <ArrowRight />
                     </a>

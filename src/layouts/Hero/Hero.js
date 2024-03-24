@@ -40,14 +40,14 @@ export default () => {
             <div className="hero-container">
                 <div className="hero-media">
                     {/* ---------------- VIDEO */}
-                    <video id="hero-background-video" autoplay muted loop>
+                    <video id="hero-background-video" autoplay muted loop playsinline>
                         <source src="/landingpage/video/background-video.mp4" type='video/mp4' />
                     </video>
                     {/* ---------------- HEADING */}
                     <div className="hero-content">
                         <span className="hero-subHeading">@exatas_consultoria_digital</span>
                         <h1 className="hero-heading"  dangerouslySetInnerHTML={{ __html: intl.formatMessage({ id: "hero.heading" }) }} />
-                        <a href="/#contact" class="buttonDefaultArrowRight">
+                        <a href="#service" class="buttonDefaultArrowRight">
                             <FormattedMessage id="hero.button" />
                             <ArrowRight />
                         </a>

@@ -30,7 +30,7 @@ export default () => {
     }
 
     return (
-        <div className="section-detailed-fields">
+        <div className="section-detailed-fields" id="service">
             <div />
             <div className="section-detailed-fields__container">
                 <div className="section-detailed-fields__title">

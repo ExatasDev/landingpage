@@ -5,6 +5,5 @@ export const carouselData = [
     <FormattedMessage id="hero.carousel.text2" />,
     <FormattedMessage id="hero.carousel.text3" />,
     <FormattedMessage id="hero.carousel.text4" />,
-    <FormattedMessage id="hero.carousel.text5" />,
-    <FormattedMessage id="hero.carousel.text6" />
+    <FormattedMessage id="hero.carousel.text5" />
 ]

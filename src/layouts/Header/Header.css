@@ -12,6 +12,13 @@
     border-bottom: 1px solid #01355626;
     box-shadow: var(--shadow-2);
 }
+
+@media screen and (max-width: 768px) {
+    #header{
+        margin-bottom: 0;
+    }
+}
+
 #header .header-container{
     position: relative;
     height: 70px;
@@ -44,9 +51,13 @@
 @media screen and (max-width: 500px) {
     #header .header-container{
         grid-template-columns: 1fr;
-
+        
     }
-    #header .header-container__localeselector, #header .header-container__contactbtn{
+    #header .header-container__contactbtn{
         display: none;
+    }
+    #header .header-container__localeselector{
+        display: block;
+        position: absolute;
     }
 }
