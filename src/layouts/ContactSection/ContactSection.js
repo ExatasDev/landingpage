@@ -4,6 +4,9 @@ import ArrowRight from '../../components/Icons/ArrowRight';
 import { useState } from 'react';
 import SuccessIcon from '../../components/Icons/Success';
 import addLead from '../../services/addLead'
+import WhatsappIcon from '../../components/Icons/Whatsapp';
+import GmailIcon from '../../components/Icons/Gmail';
+import InstagramIcon from '../../components/Icons/Instagramfull';
 
 export default () => {
     const intl = useIntl();
@@ -73,7 +76,16 @@ export default () => {
                     <span  dangerouslySetInnerHTML={{ __html: intl.formatMessage({ id: "contact-section.subTitle" }) }} />
                 </div>               
                 <div className='contact-section__phone'>
-                    <span  dangerouslySetInnerHTML={{ __html: intl.formatMessage({ id: "contact-section.phone" }) }} />
+                    <a href='https://wa.me/38997243278' target='_blank'>
+                        <WhatsappIcon width="50" height="50" />
+                    </a>
+                    <a href="mailto:exatasconsultoriadigital" target='_blank'>
+                        <GmailIcon width="50" height="50" />
+                    </a>
+                    <a href="https://www.instagram.com/exatas_consultoria_digital/" target='_blank'>
+                        <InstagramIcon width="50" height="50" />
+                    </a>
+                    {/* <span  dangerouslySetInnereHTML={{ __html: intl.formatMessage({ id: "contact-section.phone" }) }} /> */}
                 </div>
             </div>
             <div className="contact-section__col-right">

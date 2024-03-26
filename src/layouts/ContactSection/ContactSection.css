@@ -48,12 +48,10 @@
     margin-top: 20px;
 }
 .contact-section__phone{
-    font-family: Lexend;
-    font-size: 16px;
-    font-weight: 300;
-    line-height: 20px;
-    text-align: left;
     margin-top: 20px;
+    display: inline-flex;
+    justify-content: flex-start;
+    gap: 20px;
 }
 
 

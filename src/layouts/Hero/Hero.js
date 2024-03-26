@@ -1,10 +1,11 @@
 import Slider from "react-slick";
 import './Hero.css'
 import useOnView from "../../utils/useOnView";
-import { useRef } from "react";
+import { useEffect, useRef } from "react";
 import { FormattedMessage, useIntl } from "react-intl";
 import { carouselData } from "./Hero.data";
 import ArrowRight from "../../components/Icons/ArrowRight";
+import { isMobile } from "react-device-detect";
 
 export default () => {
 
@@ -24,6 +25,12 @@ export default () => {
         var video = document.getElementById("hero-background-video");
         video.play();
       }
+
+      useEffect(() => {
+        if(isMobile){
+            startVideo()
+        }
+      })
 
       useOnView({
         ref,
