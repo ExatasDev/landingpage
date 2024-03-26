@@ -47,7 +47,7 @@ export default () => {
             <div className="hero-container">
                 <div className="hero-media">
                     {/* ---------------- VIDEO */}
-                    <video id="hero-background-video" autoplay muted loop playsinline>
+                    <video id="hero-background-video" controls="false" autoplay muted loop playsinline>
                         <source src="/landingpage/video/background-video.mp4" type='video/mp4' />
                     </video>
                     {/* ---------------- HEADING */}
